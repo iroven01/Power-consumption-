@@ -10,7 +10,7 @@ at **10-minute intervals** throughout the year 2017.
 
 The analysis aims to uncover consumption patterns, identify peak hours, 
 detect anomalies, and understand the relationship between weather conditions 
-and power usage — with findings visualized in an interactive **Power BI dashboard**.
+and power usage — with findings visualized
 
 ---
 
